@@ -5,7 +5,7 @@ This is a super natural spoken speech synthesis system
 
 - Clone the repo
 ``` sh
-git clone https://github.com/wenet-e2e/wenet.git
+git clone https://github.com/yuan1615/SpokenTTS.git
 ```
 
 - Install Conda: please see https://docs.conda.io/en/latest/miniconda.html
