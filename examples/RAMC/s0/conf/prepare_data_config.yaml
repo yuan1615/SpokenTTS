@@ -1,0 +1,6 @@
+DATA: 'magicdata-ramc'
+data_path: '/home/admin/yuanxin/2.TTSData/MDT2021S003'
+save_path: '/home/admin/yuanxin/2.TTSData/RAMC'
+max_value: 32768.0
+fs: 22050
+ttsfrd_model: '/home/admin/yuanxin/SpokenTTS/resource'
