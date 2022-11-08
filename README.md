@@ -16,3 +16,6 @@ conda create -n spokentts python=3.11
 conda activate spokentts 
 pip install requirements.txt
 ```
+
+## Acknowledgements
+We referred to [VITS](https://github.com/jaywalnut310/vits) to implement this.
